@@ -25,4 +25,4 @@ resource "docker_container" "nginx" {
   }
 }
 
-// remember to push to registry 18.144.177.233 my-image:latest
+// remember to push to registry my-image:latest
